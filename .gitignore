@@ -1,0 +1,16 @@
+# OS / archive noise
+.DS_Store
+__MACOSX/
+
+# Build output
+target/
+node_modules/
+.next/
+*.tsbuildinfo
+
+# Test output
+test-results/
+playwright-report/
+blob-report/
+coverage/
+qa-reports/raw/
